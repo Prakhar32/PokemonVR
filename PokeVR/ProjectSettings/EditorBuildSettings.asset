@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/CurvedUI/Demo Scenes/13 Oculus Touch Starter Scene.unity
+    guid: dc119db224c293b4696571d89342a5f5
+  - enabled: 1
+    path: Assets/Scenes/OpenWorldScene.unity
+    guid: 29d961b3b2f3bc34693d04e7b6fcc093
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: f66595782675f55428d9e1db7c0e7979
+  m_configObjects: {}

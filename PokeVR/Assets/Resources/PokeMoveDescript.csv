@@ -1,0 +1,38 @@
+Move,Category,Type,Power,Location
+Rock Tomb,Physical,Rock,60,Above
+Rock Slide,Physical,Rock,75,Above
+Stone Edge,Physical,Rock,100,Front
+Ice Beam,Special,Ice,90,Front
+Bug Bite,Physical,Bug,60,None
+Mega Horn,Physical,Bug,120,Front
+Bite,Physical,Dark,60,None
+Crunch,Physical,Dark,80,None
+Ember,Special,Fire,40,On
+FlameThrower,Special,Fire,90,Front
+Fire Blast,Special,Fire,110,Front
+Wing Attack,Physical,Flying,60,None
+Gust,Special,Flying,40,On
+Hurricane,Special,Flying,110,On
+Peck,Physical,Flying,35,None
+Drill Peck,Physical,Flying,80,None
+Bulldoze,Physical,Ground,60,None
+Earthquake,Physical,Ground,100,Front
+Thunder Shock,Special,Electric,40,On
+Thunder Bolt,Special,Electric,90,On
+Thunder,Special,Electric,110,On
+Sludge,Special,Poison ,65,On
+Sludge Bomb,Special,Poison ,90,On
+Acid,Special,Poison ,40,On
+Venoshock,Special,Poison ,65,On
+Water Gun,Special,Water,40,Front
+Hydro Pump,Special,Water,110,Front
+Hydro Cannon,Special,Water,150,Front
+Bubble Beam,Special,Water,65,Front
+Razor Leaf,Physical,Grass,55,Front
+Pettle Dance ,Special,Grass,120,Front
+Tackle,Physical,Normal,40,None
+Take Down,Physical,Normal,90,None
+Pound,Physical,Normal,40,None
+Confusion,Special,Psychic,50,Front
+Psybeam,Special,Psychic,65,Front
+Psychic,Special,Psychic,90,Front

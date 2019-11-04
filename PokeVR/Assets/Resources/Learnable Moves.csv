@@ -1,0 +1,54 @@
+Pokemon,1,1,1,5,10,15,20,25,30,35,40,45,50
+Bulbasaur,Tackle,,,TakeDown,,Razor Leaf,,,,,,,
+Ivysaur,Tackle,,,TakeDown,,Razor Leaf,,,,,,,
+Venusaur,Tackle,,,TakeDown,Pettle Dance,Razor Leaf,,,,,,,
+Charmander,Tackle,,,Ember,,,,,FlameThrower,,,,
+Charmeleon,Tackle,Ember,,,,,,,FlameThrower,,,,
+Charizard,Tackle,Ember,Wing Attack,,,,,,FlameThrower,,Fire Blast,,
+Squirtle,Tackle,,,,Bubble Beam,Water Gun,,,,,Hydro Pump,,
+Wartortle,Tackle,,,,Water Gun,Bubble Beam,,,,,Hydro Pump,,
+Blastoise,Tackle,,,,Water Gun,Bubble Beam,,,,Ice Beam,,Hydro Cannon,
+Caterpie,Tackle,,,,,,,,,,,,
+Medapod,Tackle,,,,,,,,,,,,
+Butterfree,Tackle,Gust,Confusion,,,Psybeam,,,,,,,
+Weedle,Tackle,,,,,,,,,,,,
+Kakuna,Tackle,,,,,,,,,,,,
+Beedrill,Tackle,Peck,Bug Bite,,,,Venoshock,,,,,,
+Pidgey,Tackle,,,Gust,Wing Attack,,,,,,,,Hurricane
+Pidgeotto,Tackle,Gust,,,Wing Attack,,,,,,,,Hurricane
+Pidgeot,Tackle,Gust,,,Wing Attack,,,,,,,Hurricane,
+Rattata,Tackle,,,,Bite,,Crunch,,,,,,
+Raticate,Tackle,,,,Bite,,Crunch,,,Thunder Bolt,,Ice Beam,
+Spearow,Tackle,Peck,,,,,Take Down,,Drill Peck,,,,
+Fearow,Tackle,Peck,,,,,Take Down,,Drill Peck,,,,
+Ekans,Tackle,,,Acid,,,,,Sludge Bomb,,,,
+Arbok,Tackle,Bite,Crunch,Acid,,,,,Sludge Bomb,,,,
+Pikachu,Tackle,Thunder Shock,,,,,Thunder Bolt,,Thunder,,,,
+Raichu,Tackle,Thunder Shock,Thunder Bolt,,,,Thunder,,,,Giga Impact,,
+Sandshrew,Tackle,Scratch,,,,,,,,,,Earthquake,
+Sandslash,Tackle,Scratch,,,,,Rock Slide,,,Earthquake,,,
+NidoranF,Tackle,Scratch,,,Bite,,,Crunch,,,,,Sludge Bomb
+Nidorina,Tackle,Scratch,,,Bite,,,Crunch,,Thunder Bolt,,Ice Beam,
+Nidoqueen,Tackle,Scratch,,,Bite,,Rock Slide,Crunch,,Thunder Bolt,FlameThrower,Ice Beam,
+NidoranM,Tackle,Peck,,,,Venoshock,,,,,,,Sludge Bomb
+Nidorino,Tackle,Peck,,,,Venoshock,,,,Take Down,Sludge Bomb,,
+Nidoking,Tackle,Peck,,,,Venoshock,,,,Take Down,Sludge Bomb,Earthquake,Mega Horn
+Clefairy,Tackle,Pound,,,,Body Slam,,,,,Thunder Bolt,,
+Clefable,Tackle,Pound,,,,,,,,Thunder Bolt,FlameThrower,Ice Beam,
+Vulpix,Tackle,,,Ember,,,FlameThrower,,Fire Blast,,,,
+Ninetales,Tackle,Ember,,,,,FlameThrower,,Fire Blast,,,,
+Jigglypuff,Tackle,,,Pound,,,,Ice Beam,,,,,
+Wigglytuff,Tackle,,,Pound,,,,Ice Beam,,Thunder Bolt,,FlameThrower,
+Zubat,Tackle,,,,Bite,Wing Attack,,,,Venoshock,,,
+Golbat,Tackle,Bite,,,,Wing Attack,,,,,Venoshock,,
+Oddish,Tackle,,,,Acid,,,,,,,,Petal Dance
+Gloom,Tackle,,,,Acid,,Razor Leaf,,Venoshock,,,,Petal Dance
+Vileplume,Tackle,,,,Acid,,Razor Leaf,,Venoshock,Sludge Bomb,,,Petal Dance
+Paras,Tackle,Scratch,,,,Bug Bite,,,Venoshock,,,,
+Parasect,Tackle,Scratch,,,,Bug Bite,Psybeam,,Venoshock,Sludge Bomb,,,
+Venonat,Tackle,,,,Confusion,,Psybeam,,Venoshock,,,,Psychic
+Venomoth,Tackle,,,,Confusion,,Psybeam,,Venoshock,Sludge Bomb,,,Psychic
+Diglett,Tackle,Scratch,,,,Bulldoze,,,,,Earthquake,,
+Dugtrio,Tackle,Scratch,,,,Bulldoze,,,Rock Slide,,Earthquake,Stone Edge,
+Meowth,Tackle,Scratch,,,,,,,Thunder Bolt,,,,
+Persian,Tackle,Bite,Scratch,,,,,,Thunder Bolt,,,Thunder,

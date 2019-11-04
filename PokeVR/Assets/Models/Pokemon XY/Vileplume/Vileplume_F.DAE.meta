@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 66d0ab8f4dc3cc442bb7731a95878ef3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _01_pm0045_00_ruffresia
+    100002: _02_Origin
+    100004: _03_Waist
+    100006: _04_Hips
+    100008: _05_EndHips
+    100010: _06_LLeg
+    100012: _07_LFoot
+    100014: _08_LToe
+    100016: _09_EndLToe
+    100018: _10_LShoulder
+    100020: _11_LArm
+    100022: _12_EndLArm
+    100024: _13_RLeg
+    100026: _14_RFoot
+    100028: _15_RToe
+    100030: _16_EndRToe
+    100032: _17_RShoulder
+    100034: _18_RArm
+    100036: _19_EndRArm
+    100038: _20_Spine
+    100040: _21_Head
+    100042: _22_FeelerF1
+    100044: _23_FeelerA1
+    100046: _24_FeelerA2
+    100048: _25_EndFeelerA2
+    100050: _26_FeelerB1
+    100052: _27_FeelerB2
+    100054: _28_EndFeelerB2
+    100056: _29_FeelerC1
+    100058: _30_FeelerC2
+    100060: _31_EndFeelerC2
+    100062: _32_FeelerD1
+    100064: _33_FeelerD2
+    100066: _34_EndFeelerD2
+    100068: _35_FeelerE1
+    100070: _36_FeelerE2
+    100072: _37_EndFeelerE2
+    100074: _38_FeelerF2
+    100076: _39_EndFeelerF2
+    100078: _40_VriTex00
+    100080: _41_pm0045_00_BodySkin
+    100082: _42_pm0045_00_PetalSkin
+    100084: Vileplume
+    100086: //RootNode
+    400000: _01_pm0045_00_ruffresia
+    400002: _02_Origin
+    400004: _03_Waist
+    400006: _04_Hips
+    400008: _05_EndHips
+    400010: _06_LLeg
+    400012: _07_LFoot
+    400014: _08_LToe
+    400016: _09_EndLToe
+    400018: _10_LShoulder
+    400020: _11_LArm
+    400022: _12_EndLArm
+    400024: _13_RLeg
+    400026: _14_RFoot
+    400028: _15_RToe
+    400030: _16_EndRToe
+    400032: _17_RShoulder
+    400034: _18_RArm
+    400036: _19_EndRArm
+    400038: _20_Spine
+    400040: _21_Head
+    400042: _22_FeelerF1
+    400044: _23_FeelerA1
+    400046: _24_FeelerA2
+    400048: _25_EndFeelerA2
+    400050: _26_FeelerB1
+    400052: _27_FeelerB2
+    400054: _28_EndFeelerB2
+    400056: _29_FeelerC1
+    400058: _30_FeelerC2
+    400060: _31_EndFeelerC2
+    400062: _32_FeelerD1
+    400064: _33_FeelerD2
+    400066: _34_EndFeelerD2
+    400068: _35_FeelerE1
+    400070: _36_FeelerE2
+    400072: _37_EndFeelerE2
+    400074: _38_FeelerF2
+    400076: _39_EndFeelerF2
+    400078: _40_VriTex00
+    400080: _41_pm0045_00_BodySkin
+    400082: _42_pm0045_00_PetalSkin
+    400084: Vileplume
+    400086: //RootNode
+    2100000: Mouth
+    2100002: Eye
+    2100004: Body01_00
+    4300000: Vileplume
+    9500000: //RootNode
+    13700000: Vileplume
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

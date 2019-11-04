@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: c06b579830163da48a75f4950dfa2034
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001 pm0020_00_ratta
+    100002: 002 Origin
+    100004: 003 Waist
+    100006: 004 Hips
+    100008: 005 EndHips
+    100010: 006 LThigh
+    100012: 007 LFoot
+    100014: 008 EndLFoot
+    100016: 009 LToeA1
+    100018: 010 LToeA2
+    100020: 011 EndLToeA2
+    100022: 012 LToeB1
+    100024: 013 LToeB2
+    100026: 014 EndLToeB2
+    100028: 015 LToeC1
+    100030: 016 LToeC2
+    100032: 017 EndLToeC2
+    100034: 018 RThigh
+    100036: 019 RFoot
+    100038: 020 EndRFoot
+    100040: 021 RToeA1
+    100042: 022 RToeA2
+    100044: 023 EndRToeA2
+    100046: 024 RToeB1
+    100048: 025 RToeB2
+    100050: 026 EndRToeB2
+    100052: 027 RToeC1
+    100054: 028 RToeC2
+    100056: 029 EndRToeC2
+    100058: 030 Tail1
+    100060: 031 Tail2
+    100062: 032 Tail3
+    100064: 033 Tail4
+    100066: 034 Tail5
+    100068: 035 Tail6
+    100070: 036 Tail7
+    100072: 037 EndTail7
+    100074: 038 Spine
+    100076: 039 Head
+    100078: 040 EndHead
+    100080: 041 Jaw
+    100082: 042 EndJaw
+    100084: 043 LEar
+    100086: 044 EndLEar
+    100088: 045 LFeeler1
+    100090: 046 LFeeler2
+    100092: 047 EndLFeeler2
+    100094: 048 Nose
+    100096: 049 EndNose
+    100098: 050 REar
+    100100: 051 EndREar
+    100102: 052 RFeeler1
+    100104: 053 RFeeler2
+    100106: 054 EndRFeeler2
+    100108: 055 LShoulder
+    100110: 056 LArm
+    100112: 057 LHand
+    100114: 058 LFingerA1
+    100116: 059 LFingerA2
+    100118: 060 EndLFingerA2
+    100120: 061 LFingerB1
+    100122: 062 LFingerB2
+    100124: 063 EndLFingerB2
+    100126: 064 LFingerC1
+    100128: 065 LFingerC2
+    100130: 066 EndLFingerC2
+    100132: 067 RShoulder
+    100134: 068 RArm
+    100136: 069 RHand
+    100138: 070 RFingerA1
+    100140: 071 RFingerA2
+    100142: 072 EndRFingerA2
+    100144: 073 RFingerB1
+    100146: 074 RFingerB2
+    100148: 075 EndRFingerB2
+    100150: 076 RFingerC1
+    100152: 077 RFingerC2
+    100154: 078 EndRFingerC2
+    100156: 079 VriVis00
+    100158: 080 pm0020_00_MustacheSkin
+    100160: 081 pm0020_00_BodySkin
+    100162: Raticate
+    100164: //RootNode
+    400000: 001 pm0020_00_ratta
+    400002: 002 Origin
+    400004: 003 Waist
+    400006: 004 Hips
+    400008: 005 EndHips
+    400010: 006 LThigh
+    400012: 007 LFoot
+    400014: 008 EndLFoot
+    400016: 009 LToeA1
+    400018: 010 LToeA2
+    400020: 011 EndLToeA2
+    400022: 012 LToeB1
+    400024: 013 LToeB2
+    400026: 014 EndLToeB2
+    400028: 015 LToeC1
+    400030: 016 LToeC2
+    400032: 017 EndLToeC2
+    400034: 018 RThigh
+    400036: 019 RFoot
+    400038: 020 EndRFoot
+    400040: 021 RToeA1
+    400042: 022 RToeA2
+    400044: 023 EndRToeA2
+    400046: 024 RToeB1
+    400048: 025 RToeB2
+    400050: 026 EndRToeB2
+    400052: 027 RToeC1
+    400054: 028 RToeC2
+    400056: 029 EndRToeC2
+    400058: 030 Tail1
+    400060: 031 Tail2
+    400062: 032 Tail3
+    400064: 033 Tail4
+    400066: 034 Tail5
+    400068: 035 Tail6
+    400070: 036 Tail7
+    400072: 037 EndTail7
+    400074: 038 Spine
+    400076: 039 Head
+    400078: 040 EndHead
+    400080: 041 Jaw
+    400082: 042 EndJaw
+    400084: 043 LEar
+    400086: 044 EndLEar
+    400088: 045 LFeeler1
+    400090: 046 LFeeler2
+    400092: 047 EndLFeeler2
+    400094: 048 Nose
+    400096: 049 EndNose
+    400098: 050 REar
+    400100: 051 EndREar
+    400102: 052 RFeeler1
+    400104: 053 RFeeler2
+    400106: 054 EndRFeeler2
+    400108: 055 LShoulder
+    400110: 056 LArm
+    400112: 057 LHand
+    400114: 058 LFingerA1
+    400116: 059 LFingerA2
+    400118: 060 EndLFingerA2
+    400120: 061 LFingerB1
+    400122: 062 LFingerB2
+    400124: 063 EndLFingerB2
+    400126: 064 LFingerC1
+    400128: 065 LFingerC2
+    400130: 066 EndLFingerC2
+    400132: 067 RShoulder
+    400134: 068 RArm
+    400136: 069 RHand
+    400138: 070 RFingerA1
+    400140: 071 RFingerA2
+    400142: 072 EndRFingerA2
+    400144: 073 RFingerB1
+    400146: 074 RFingerB2
+    400148: 075 EndRFingerB2
+    400150: 076 RFingerC1
+    400152: 077 RFingerC2
+    400154: 078 EndRFingerC2
+    400156: 079 VriVis00
+    400158: 080 pm0020_00_MustacheSkin
+    400160: 081 pm0020_00_BodySkin
+    400162: Raticate
+    400164: //RootNode
+    2100000: Body00
+    2100002: Eye
+    4300000: Raticate
+    9500000: //RootNode
+    13700000: Raticate
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

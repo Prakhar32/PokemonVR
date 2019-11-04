@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: b5a554055f308404cbb2c35ceb36279d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _01_pm0040_00
+    100002: _02_Origin
+    100004: _03_Waist
+    100006: _04_Hips
+    100008: _05_EndHips
+    100010: _06_LThigh
+    100012: _07_LFoot
+    100014: _08_EndLFoot
+    100016: _09_LToe
+    100018: _10_EndLToe
+    100020: _11_RThigh
+    100022: _12_RFoot
+    100024: _13_EndRFoot
+    100026: _14_RToe
+    100028: _15_EndRToe
+    100030: _16_Spine
+    100032: _17_Head
+    100034: _18_EndHead
+    100036: _19_FeelerA1
+    100038: _20_EndFeelerA1
+    100040: _21_FeelerA2
+    100042: _22_EndFeelerA2
+    100044: _23_LEar1
+    100046: _24_LEar2
+    100048: _25_LEar3
+    100050: _26_EndLEar3
+    100052: _27_REar1
+    100054: _28_REar2
+    100056: _29_REar3
+    100058: _30_EndREar3
+    100060: _31_LArm
+    100062: _32_LForeArm
+    100064: _33_LHand
+    100066: _34_EndLHand
+    100068: _35_RArm
+    100070: _36_RForeArm
+    100072: _37_RHand
+    100074: _38_EndRHand
+    100076: _39_pm0040_00_IrisSkin
+    100078: _40_pm0040_00_Skin
+    100080: //RootNode
+    100082: Wigglytuff
+    400000: _01_pm0040_00
+    400002: _02_Origin
+    400004: _03_Waist
+    400006: _04_Hips
+    400008: _05_EndHips
+    400010: _06_LThigh
+    400012: _07_LFoot
+    400014: _08_EndLFoot
+    400016: _09_LToe
+    400018: _10_EndLToe
+    400020: _11_RThigh
+    400022: _12_RFoot
+    400024: _13_EndRFoot
+    400026: _14_RToe
+    400028: _15_EndRToe
+    400030: _16_Spine
+    400032: _17_Head
+    400034: _18_EndHead
+    400036: _19_FeelerA1
+    400038: _20_EndFeelerA1
+    400040: _21_FeelerA2
+    400042: _22_EndFeelerA2
+    400044: _23_LEar1
+    400046: _24_LEar2
+    400048: _25_LEar3
+    400050: _26_EndLEar3
+    400052: _27_REar1
+    400054: _28_REar2
+    400056: _29_REar3
+    400058: _30_EndREar3
+    400060: _31_LArm
+    400062: _32_LForeArm
+    400064: _33_LHand
+    400066: _34_EndLHand
+    400068: _35_RArm
+    400070: _36_RForeArm
+    400072: _37_RHand
+    400074: _38_EndRHand
+    400076: _39_pm0040_00_IrisSkin
+    400078: _40_pm0040_00_Skin
+    400080: Wigglytuff
+    400082: //RootNode
+    2100000: Mouth
+    2100002: Body
+    2100004: Eye
+    2100006: BodyVco
+    2100008: LIris
+    2100010: RIris
+    4300000: Wigglytuff
+    9500000: //RootNode
+    13700000: Wigglytuff
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

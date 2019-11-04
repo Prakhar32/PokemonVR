@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: e4429a4faa211b043996598c33dc7b0b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Caterpie
+    100002: //RootNode
+    100004: EndFeelerA2
+    100006: EndFeelerB2
+    100008: EndHead
+    100010: EndLFeelerA
+    100012: EndLFeelerB
+    100014: EndNose
+    100016: EndRFeelerA
+    100018: EndRFeelerB
+    100020: EndTail3
+    100022: EnvironmentAmbientLight
+    100024: FeelerA1
+    100026: FeelerA2
+    100028: FeelerB1
+    100030: FeelerB2
+    100032: Head
+    100034: Hips
+    100036: LFeelerA
+    100038: LFeelerB
+    100040: Nose
+    100042: Origin
+    100044: pm0010_00
+    100046: pm0010_00_BodySkin
+    100048: RFeelerA
+    100050: RFeelerB
+    100052: Spine1
+    100054: Spine2
+    100056: Tail1
+    100058: Tail2
+    100060: Tail3
+    100062: Waist
+    400000: Caterpie
+    400002: //RootNode
+    400004: EndFeelerA2
+    400006: EndFeelerB2
+    400008: EndHead
+    400010: EndLFeelerA
+    400012: EndLFeelerB
+    400014: EndNose
+    400016: EndRFeelerA
+    400018: EndRFeelerB
+    400020: EndTail3
+    400022: EnvironmentAmbientLight
+    400024: FeelerA1
+    400026: FeelerA2
+    400028: FeelerB1
+    400030: FeelerB2
+    400032: Head
+    400034: Hips
+    400036: LFeelerA
+    400038: LFeelerB
+    400040: Nose
+    400042: Origin
+    400044: pm0010_00
+    400046: pm0010_00_BodySkin
+    400048: RFeelerA
+    400050: RFeelerB
+    400052: Spine1
+    400054: Spine2
+    400056: Tail1
+    400058: Tail2
+    400060: Tail3
+    400062: Waist
+    2100000: Material__35
+    4300000: Caterpie
+    9500000: //RootNode
+    13700000: Caterpie
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
